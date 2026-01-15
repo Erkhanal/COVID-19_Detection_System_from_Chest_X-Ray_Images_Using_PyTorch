@@ -1,17 +1,17 @@
 # COVID-19 Detection System from Chest X-Ray Images Using PyTorch
 
 ## Table of Contents
-[Introduction](#introduction)
-[Objective](#objective)
-[Data Source](#data-source)
-[System Architecture](#system-architecture)
-[Steps for System Development](#steps-for-system-development)
-[Testing and Evaluation](#testing-and-evaluation)
-[Challenges Faced and Lessons Learned](#challenges-faced-and-lessons-learned)
-[Conclusion](#conclusion)
-[Technologies Used](#technologies-used)
-[References](#references)
-[Contact Information](#contact-information)
+- [Introduction](#introduction)
+- [Objective](#objective)
+- [Data Source](#data-source)
+- [System Architecture](#system-architecture)
+- [Steps for System Development](#steps-for-system-development)
+- [Testing and Evaluation](#testing-and-evaluation)
+- [Challenges Faced and Lessons Learned](#challenges-faced-and-lessons-learned)
+- [Conclusion](#conclusion)
+- [Technologies Used](#technologies-used)
+- [References](#references)
+- [Contact Information](#contact-information)
 
 ## Introduction 
 <div align="justify"> This project develops an AI-based system to detect COVID-19 from chest X-ray images using PyTorch. Chest X-rays serve as a key diagnostic tool for identifying respiratory illnesses, including viral pneumonia and COVID-19. Manual diagnosis can be time-consuming and prone to errors due to the subtle differences in X-ray images. Traditional computer-aided approaches often face challenges with accuracy and generalization.</div><br>
